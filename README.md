@@ -1,6 +1,6 @@
 # QDesktop-Editor桌面（私有子网增强版）部署指南与快速入门手册
 
-- [ ] 快速图文安装教程请点击： [[图文教程-QDesktop-Editor桌面通过AWS控制台的部署手册与快速使用入门](./图文教程-QDesktop-Editor桌面通过AWS控制台的部署手册与快速使用入门 .md)]
+- [ ] 快速图文安装教程请点击： [[图文教程-QDesktop-Editor桌面通过AWS控制台的部署手册与快速使用入门](./图文教程-QDesktop-Editor桌面通过AWS控制台的部署手册与快速使用入门.md)]
 
 - [ ] QDesktop-editor Cloudformation 一键部署脚本：[[qdesktop-editor-privatesubnet-fullfeatures-enhanced-20250918.yaml](./qdesktop-editor-privatesubnet-fullfeatures-enhanced-20250918.yaml)]
 
